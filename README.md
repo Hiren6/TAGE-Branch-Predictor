@@ -1,6 +1,10 @@
 # TAGE-Branch-Predictor
 Implementing TAGE and TAGE-L for simulation with ChampSim
 
+<p align="left">
+  <img src=".\tage_diagram.PNG" width=450>
+</p>
+
 **CS-305 IITB Group project by C.A.O.S team**
 - Gyana Prakash Beria -> Implementing TAGE, TAGE-L, testing
 - Hiren Bavaskar -> Implementing TAGE, testing
