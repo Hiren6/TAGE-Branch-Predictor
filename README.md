@@ -6,10 +6,10 @@ Implementing TAGE and TAGE-L for simulation with ChampSim
 </p>
 
 **CS-305 IITB Group project by C.A.O.S team**
-- Gyana Prakash Beria -> Implementing TAGE, TAGE-L, testing
-- Hiren Bavaskar -> Implementing TAGE, testing
-- Nabarun Champramnari -> Presentation, video making
-- Sayantan Dhar -> Testing, video editing
+- Gyana Prakash Beria -> Implementing TAGE, TAGE-L, Testing, Presentation
+- Hiren Bavaskar -> Implementing TAGE, Testing, Presentation
+- Nabarun Champramnari -> Presentation
+- Sayantan Dhar -> Testing, Plots, Video editing
 
 ## Objective of this project
 Compare the performance of the state of art TAGE, TAGE-L branch predictors with other predictors like hashed_perceptron in ChampSim
@@ -25,3 +25,4 @@ Compare the performance of the state of art TAGE, TAGE-L branch predictors with 
 1. [Main reference paper](https://jilp.org/vol9/v9paper6.pdf)
 2. https://github.com/2Bor2C/tage
 3. https://github.com/rajarshibiswas/Branch-Prediction
+4. https://github.com/boubinjg/BranchPrediction
